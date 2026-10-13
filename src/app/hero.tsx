@@ -44,12 +44,20 @@ export function Hero() {
             {/* Main Headline */}
             <Typography
               variant="h1"
-              className="text-4xl sm:text-5xl lg:text-6xl font-extrabold !leading-[1.15] tracking-tight mb-4 text-white"
+              className="text-4xl sm:text-5xl lg:text-6xl font-extrabold !leading-[1.15] tracking-tight mb-2 text-white"
             >
               <span className="bg-gradient-to-r from-orange-400 via-amber-300 to-orange-500 bg-clip-text text-transparent">
-                Portfolio
+                Suepsakun senasee
               </span>
             </Typography>
+            <div className="flex flex-wrap items-center gap-2 mb-4">
+              <span className="text-xl sm:text-2xl font-bold text-white tracking-wide">
+                {PERSONAL_INFO.name}
+              </span>
+              <span className="text-xs font-semibold text-orange-400 border border-orange-500/30 bg-orange-500/10 px-2.5 py-0.5 rounded-full">
+                IT Portfolio
+              </span>
+            </div>
 
             {/* Academic Track & Year */}
             <div className="flex flex-wrap items-center gap-2 text-base md:text-lg font-medium text-zinc-200 mb-2">
@@ -227,6 +235,7 @@ export function Hero() {
                   <div>
                     <h3 className="text-xl sm:text-2xl font-extrabold text-white flex flex-wrap items-center gap-2 mb-1">
                       <span>{PERSONAL_INFO.name}</span>
+                      <span className="text-sm font-semibold text-orange-400">({PERSONAL_INFO.nameEn})</span>
                       <span className="text-xs bg-orange-500/20 text-orange-400 border border-orange-500/30 px-2 py-0.5 rounded-full font-mono font-medium">
                         NPU IT
                       </span>

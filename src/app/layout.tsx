@@ -11,9 +11,9 @@ const prompt = Prompt({
 });
 
 export const metadata: Metadata = {
-  title: "สืบสกุล เสนาสี | IT Portfolio - มหาวิทยาลัยนครพนม",
+  title: "Suepsakun senasee (สืบสกุล เสนาสี) | IT Portfolio - มหาวิทยาลัยนครพนม",
   description:
-    "แฟ้มสะสมผลงาน (Portfolio) นายสืบสกุล เสนาสี สาขาเทคโนโลยีสารสนเทศและนวัตกรรมคอมพิวเตอร์ คณะการจัดการและเทคโนโลยีสารสนเทศ มหาวิทยาลัยนครพนม - โครงงาน IoT, Cybersecurity Research, AI Face Mask Detection, และ 9 โครงงานบน GitHub",
+    "แฟ้มสะสมผลงาน (Portfolio) นายสืบสกุล เสนาสี (Suepsakun senasee) สาขาเทคโนโลยีสารสนเทศและนวัตกรรมคอมพิวเตอร์ คณะการจัดการและเทคโนโลยีสารสนเทศ มหาวิทยาลัยนครพนม - โครงงาน IoT, Cybersecurity Research, AI Face Mask Detection, และ 9 โครงงานบน GitHub",
 };
 
 export default function RootLayout({

@@ -30,7 +30,7 @@ export interface ActivityItem {
 
 export const PERSONAL_INFO = {
   name: "นายสืบสกุล เสนาสี",
-  nameEn: "Suebsakul Senasi",
+  nameEn: "Suepsakun senasee",
   studentId: "684070310058",
   faculty: "คณะการจัดการและเทคโนโลยีสารสนเทศ",
   facultyEn: "Faculty of Management and Information Technology",

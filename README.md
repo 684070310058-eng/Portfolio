@@ -1,4 +1,4 @@
-# 🚀 แฟ้มสะสมผลงาน (Portfolio) - นายสืบสกุล เสนาสี (Suebsakul Senasi)
+# 🚀 แฟ้มสะสมผลงาน (Portfolio) - นายสืบสกุล เสนาสี (Suepsakun senasee)
 
 [![Next.js](https://img.shields.io/badge/Next.js-13.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -121,7 +121,7 @@ npm run dev
 
 ## 📬 ข้อมูลการติดต่อ
 
-- **เจ้าของผลงาน**: นายสืบสกุล เสนาสี (Suebsakul Senasi)
+- **เจ้าของผลงาน**: นายสืบสกุล เสนาสี (Suepsakun senasee)
 - **อีเมล**: [mr.suepsakun@gmail.com](mailto:mr.suepsakun@gmail.com)
 - **GitHub**: [https://github.com/684070310058-eng](https://github.com/684070310058-eng)
 - **สถาบัน**: มหาวิทยาลัยนครพนม (Nakhon Phanom University)
